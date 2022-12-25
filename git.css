@@ -1,0 +1,50 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 20px;
+  }
+
+h1{  color:rgb(231, 231, 231);   text-align: center; font-family: default; text-align: right; margin: 0px 430px  }
+h3{ color:rgba(8, 116, 110, 0.959);  text-align: right;  font-family: 'Segoe UI';   font-size: 21px;    margin: 0px 470px  } 
+body { color:blueviolet; background-color: #171723; font-family: arial;  font-size: 16px; font-weight: bold; }
+
+#SSS{  height: 30px; background-color: green; margin: 0px 490px;}
+#SSS:hover{ cursor: pointer;  background-color: blue; }
+
+.nodiv, h2, a{ text-align: right; margin: 0px 70px; }
+.NodivDoggy{   text-align: right; margin: 0px 325px; }
+.img1{ width: 300px; float:right; margin: 40px 50px 0px; }
+.RG1{ text-align: right; margin: 0px 48 0px; }
+.nodiv3 { color:rgb(255, 0, 0) ; text-align: right; margin: 0px 450px;} 
+
+.Divno56{ margin-top: 30px; float: right; color:white;  background: #1E1E2D; margin: 24px; padding: 20px; width: 1000px;   height: 550px;}
+.DivNo1{ color:white;  background: #1E1E2D; margin: 24px; padding: 20px; width: 1000px;   height: 550px;}
+.DivNo2{ color:white;  background: #1E1E2D; margin: 24px; padding: 20px; width: 1000px;   height: 550px; }
+.table1 { color:white;  background: #1E1E2D; margin: 24px; padding: 20px; width: 1000px;   height: 550px; }
+
+.home1 {color: white; text-align: left; background: #11111B; font-size: 20px; padding: 20px; margin: 20px;}
+.b2h {font-size: 16px; color:#6E6E7E;} 
+#hey1 { color:rgb(80, 0, 0)}
+
+#AFF{ font-size: 22px; padding: 50px; font-weight: bolder; font-family:'Trebuchet MS'; }
+#TH1{ color: #9293A0; font-family: 'Trebuchet MS'; background-color: none; width: 89px; font-size: 15px; padding: 2px;}
+#A1{     padding: 50px;  font-size: 18px;  }
+#A2{  color:#4F4D70;    padding: 50px;  font-size: 15px; }
+#A3{  color:#4F4D70;     padding: 50px;  font-size: 13px; }
+#A4{  color:#4F4D70;  padding: 50px;  font-size: 13px; }
+#AT{ padding: 42px;  font-size: 18px; }
+
+#bb1{ margin: 20px ;  float: left;    }
+#T1:hover{  cursor: text; opacity: 30 ; background-color: rgba(79, 82, 82, 0.6) ;}
+#N12{  color: #D2CCD1; font-size: 18px; white-space: nowrap;  margin: 16em;  padding: 1px ; } 
+#N2{ white-space:nowrap; margin: 7.50em; padding: 5px; }
+#N3{ white-space:nowrap; margin: 2.30em; color: #D2CCD1; font-size: 18px;   padding: 1px; }
+#N4{ white-space:nowrap; margin: 24em; padding:5px; }
+#N5{ white-space: nowrap; margin: 4em; color: #D2CCD1; font-size: 18px;   padding: 1px;  }
+#N6{ color:#4F4D70; white-space: nowrap;  margin: 19.50em; font-size: 14px; padding: 5px;}
+#AA2{ width: 30px; margin:  60px 20px 0px; }
+#N7 {white-space: nowrap; margin: 11.2em; color: #D2CCD1; font-size: 18px;   padding: 1px; }
+#N8 {color:#4F4D70; white-space: nowrap;  margin: 28em; font-size: 14px; padding: 5px;}
+#A333{ padding: 50px;  font-size: 18px;   }
+
+
